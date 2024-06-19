@@ -39,6 +39,12 @@ const Product = () => {
             return true;
         }
 
+          // Check if the product color (as string) includes the search term
+          const colorLower = product.color.toLowerCase().toString();
+          if (colorLower.includes(termLower)) {
+            return true;
+        }
+
         return false;
     };
 
