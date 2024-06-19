@@ -8,6 +8,16 @@ Welcome to our React-based e-commerce application! This project provides a simpl
 # Dependencies
 # Contributing
 
+### Screenshots
+![Home](home.PNG)
+![Product](products.PNG)
+![About](about.PNG)
+![Contact](contact.PNG)
+![Login](login.PNG)
+![Register](register.PNG)
+![Cart](cart.PNG)
+![Checkout](checkout.PNG)
+
 ## Features
 Homepage: Displays a welcome message and highlights featured products.
 Products Page: Lists all available products.
