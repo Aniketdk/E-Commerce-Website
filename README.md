@@ -31,11 +31,11 @@ cd E-Commerce-Website
 
 # bash
 Copy code
-npm i
-npm i react-react-dom
-npm i react-router-dom
-npm i react-redux
-npm i bootstrap
+npm i ,
+npm i react-react-dom ,
+npm i react-router-dom ,
+npm i react-redux ,
+npm i bootstrap 
 Start the development server:
 
 # bash
