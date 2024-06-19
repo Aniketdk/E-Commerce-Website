@@ -9,7 +9,7 @@ Welcome to our React-based e-commerce application! This project provides a simpl
 # Contributing
 
 ### Screenshots
-![Home](home.PNG)
+![Home](./Screenshots/home.PNG)
 ![Product](products.PNG)
 ![About](about.PNG)
 ![Contact](contact.PNG)
