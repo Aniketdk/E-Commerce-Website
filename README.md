@@ -29,21 +29,20 @@ cd E-Commerce-Website
 
 ## Install dependencies:
 
-# bash
+### bash
 Copy code
 npm i ,
 npm i react-react-dom ,
 npm i react-router-dom ,
 npm i react-redux ,
 npm i bootstrap 
+
+### bash
 Start the development server:
-
-# bash
-
 npm start
 Open http://localhost:3000 to view it in the browser.
 
-## Usage
+### Usage
 Navigate through different sections using the header navigation links.
 Explore products, view details, add items to the cart, and proceed to checkout.
 Learn more about the company or get in touch via the About and Contact pages.
