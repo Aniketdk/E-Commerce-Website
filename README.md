@@ -10,13 +10,13 @@ Welcome to our React-based e-commerce application! This project provides a simpl
 
 ### Screenshots
 ![Home](./Screenshots/home.PNG)
-![Product](products.PNG)
-![About](about.PNG)
-![Contact](contact.PNG)
-![Login](login.PNG)
-![Register](register.PNG)
-![Cart](cart.PNG)
-![Checkout](checkout.PNG)
+![Product](./Screenshots/products.PNG)
+![About](./Screenshots/about.PNG)
+![Contact](./Screenshots/contact.PNG)
+![Login](./Screenshots/login.PNG)
+![Register](./Screenshots/register.PNG)
+![Cart](./Screenshots/cart.PNG)
+![Checkout](./Screenshots/checkout.PNG)
 
 ## Features
 Homepage: Displays a welcome message and highlights featured products.
