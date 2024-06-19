@@ -24,18 +24,22 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/react-ecommerce-app.git
-cd react-ecommerce-app
+git clone https://github.com/Aniketdk/E-Commerce-Website.git
+cd E-Commerce-Website
 
 ## Install dependencies:
 
 # bash
 Copy code
-npm install
+npm i
+npm i react-react-dom
+npm i react-router-dom
+npm i react-redux
+npm i bootstrap
 Start the development server:
 
 # bash
-Copy code
+
 npm start
 Open http://localhost:3000 to view it in the browser.
 
